@@ -1,0 +1,4 @@
+Encoder,Press,PressTime_s,HomedTime_s,Wait_s,PulsesAtPress,OffsetPulses,OffsetDeg,PosHomeAtHomed
+AMT103-V,1,2,2.199,0.199,0,0,0,0
+AMT103-V,2,9.5,15.967,6.467,-88991,-195711,-8600.5810546875,0
+Bourns PEC11R,1,13.12,13.459,0.338999999999999,32,48,180,0

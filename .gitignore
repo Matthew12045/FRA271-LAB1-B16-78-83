@@ -1,0 +1,39 @@
+# =====================================================================
+# .gitignore: FRA271 Lab 1 (B16) - Potentiometer, Magnetic Sensor,
+#             Incremental Encoder, Load Cell
+# =====================================================================
+
+# Local archive of superseded scripts, old plots, backups and notes (not submitted)
+_archive/
+
+# Markdown notes and READMEs
+*.md
+
+# Backup copies of models, data and spreadsheets
+*backup*
+data_old/
+
+# Python virtual environment & cache
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# MATLAB / Simulink cache & temporary files
+slprj/
+*.slxc
+*.asv
+*.m~
+*.autosave
+~$*
+
+# OS / Editor temporary metadata
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.agents/
